@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "/Users/danilprpic/Projects/ARHackday"
+		},
+		{
+			"path": "/Users/danilprpic/Projects/viro"
+		},
+		{
+			"path": "/Users/danilprpic/Projects/ViroSample"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "interactive",
+		"files.exclude": {
+			"**/.classpath": true,
+			"**/.project": true,
+			"**/.settings": true,
+			"**/.factorypath": true
+		}
+	}
+}
